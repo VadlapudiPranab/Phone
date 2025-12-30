@@ -1,0 +1,118 @@
+Binary Tree
+======================
+At most two children
+
+Complete Binary tree
+=========================
+-BT With below properties
+1.all the leaf nodes must lean towards
+2.The last leaf node might not have right sibling.
+
+Heap
+=======
+It is complete BT with below properties
+MAX Heap
+----------------------
+1.Any node in heap data structure is always > that its child node.
+2.Root node is the largest among all nodes.
+MIN Heap
+-----------------------
+1.Any Node in heap data structure is always < that its child node.
+2.Root node is the smallest among all nodes.
+Heap structure is for only the higher order data structure like Tree.
+
+==========================================================================
+Start the header of the value n/2-1 formula for the Heap sort+
+left - 2i+1
+right - 2i+2
+
+i, largest, left, right 
+
+Heap-Fy - convert into max heap the root should always the largest and child should be the lowest.
+
+Step 1: Build The Heap from the array.
+Step 2: Put the largest element at the end of the heap.
+Step 3: Cut off the last element of the heap and reduce its size by 1.
+Step 4: Heapify the root element again.
+Step 5:Repeat the process until all elements are sorted.
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
